@@ -12,7 +12,7 @@ To run download the checkpoint and dataset then
 python main.py
 ```
 ## Results 
-### Prediction and Ground Truth Flows
+### Predicted and Ground Truth Flows
 
 ![Prediction_GT](./results/result-1.png)
 ![Prediction_GT](./results/result-2.png)
